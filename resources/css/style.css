@@ -1,0 +1,26 @@
+/*Body's main configuration*/
+body {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+/*Div's Background values*/
+.backgr {
+  background-image: url("../images/the-flatiron-building.png");
+  color: white;
+}
+
+/*Special values for main Headers with links*/
+.ancspecial {
+  font-size: 18px;
+  color: white;
+}
+
+p {
+
+}
+/*Header1 Values*/
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
