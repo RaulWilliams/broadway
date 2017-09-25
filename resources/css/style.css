@@ -17,10 +17,30 @@ body {
 }
 
 p {
-
+  font-size: 14px;
 }
+
 /*Header1 Values*/
 h1 {
   font-size: 70px;
   font-weight: bold;
+}
+
+/*Header2 Values*/
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+/*Header3 Values*/
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+/*Leftmost paragraph*/
+.left {
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
 }
